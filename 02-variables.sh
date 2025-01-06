@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Ramesh
+PERSON1=Ramesh # No space
 PERSON2=Suresh
 
 echo "$PERSON1:: Hi PERSON2"
