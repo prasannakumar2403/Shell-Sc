@@ -2,7 +2,11 @@
 
 NUMBER=$1
 
-# -gt, -lt, -eq, -ge, -le
+# -gt, -lt, -eq, -ge, -le  (Greater than ,
+
+# -gt, -lt (Greater than ,less than)
+# -eq, (Less than or equal)
+# -ge, -le(Greater than or equal , less than or equal)
 
 if [ $NUMBER -gt 100 ]
 then
